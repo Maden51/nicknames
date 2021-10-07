@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/xu8mf40mk5043tky?svg=true)](https://ci.appveyor.com/project/Maden51/nicknames)
